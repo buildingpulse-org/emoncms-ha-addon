@@ -17,7 +17,7 @@ ingress: true
 ingress_port: 80
 ingress_stream: true
 ports:
-  80/tcp: null
+  80/tcp: 80
   443/tcp: 7443
   1883/tcp: 9883
 options:
