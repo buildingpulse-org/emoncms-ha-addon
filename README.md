@@ -16,3 +16,8 @@ Architectures :
 You can use this add_on to install emoncms, a powerful open-source web-app for processing, logging and visualising energy, temperature and other environmental data.
 
 Part of the [OpenEnergyMonitor.org](https://openenergymonitor.org/) project
+
+
+## This Fork
+
+Opens up port 80 so a local iotawatt can upload data via an unencrypted HTTP connection
